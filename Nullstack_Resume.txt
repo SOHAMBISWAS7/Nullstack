@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title style="color:blue;font-style:italic;">My Resume</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+        <style>
+	
+	
+    th,td{border: 1px solid darkcyan;
+                }
+    table{border: 1px solid darkcyan;
+                width:100%;}
+    p{font-size:150%;}
+        </style>
+   
+    </head>
+     <div class="container">
+    <body style="background-color:burlywood;">
+        <h1 style="color:brown;text-align:center;font-size:300%;"><u><strong>RESUME</strong></u></h1><br><br>
+        <img src="1615348162531.jpg" width="140" height="150" style="float:right; "/>
+        <p style="font-size:150%;"><strong>Name:</strong>&nbsp;Soham Biswas<br>
+            <strong>Contact&nbsp;<span class="glyphicon glyphicon-phone"></span>:</strong>&nbsp;6291373688<br>
+            <strong>Email&nbsp;<span class="glyphicon glyphicon-envelope"></span>:</strong>&nbsp;sohambiswas1056@gmail.com, sohambiswas1058@gmail.com<br>
+            <strong>Address&nbsp;<span class="glyphicon glyphicon-home"></span>:</strong>&nbsp;C3-12/1, Sarada park road, Joth Shibrampur, Kolkata-700141<br>
+            <br>
+            <strong>Objective:</strong>&nbsp;To employ my abilities in the growth of the organization through hard work and determination and also ensuring self-growth by continuously upgrading my knowledge and skills.  <br>
+        </p>
+            <hr>
+            <p style="font-size:150%;"><strong>Academics Credentials:</strong>&nbsp;<br></p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>DEGREE</th>
+                        <th>INSTITUTION NAME</th>
+                        <th>BOARD</th>
+                        <th>PERCENTAGE/CGPA</th>
+                        <th>YEAR OF PASSING</th>
+                    </tr>
+                </thead>
+                <tr>
+                    <td style="font-size:100%;">1. B. Tech in Electrical Engineering</td>
+                    <td style="font-size:100%;">St. Thomas’ College of Engineering & Technology </td>
+                    <td style="font-size:100%;">Maulana Abul Kalam Azad University of Technology </td>
+                    <td style="font-size:100%;">
+                    <ul>
+                        <li>1st Sem:7.94</li>
+                        <li>2nd Sem:8.93</li>
+                        <li>3rd Sem:8.77</li>
+                        <li>4th Sem:9.53</li>
+                        <li>5th Sem:9.73</li>
+                    </ul>
+                    </td>
+                    <td>2022</td>
+                </tr>
+                <tr>
+                    <td style="font-size:100%;">2. Class XII  </td>
+                    <td style="font-size:100%;">D.A.V Public School   </td>
+                    <td style="font-size:100%;">CBSE  </td> 
+                    <td style="font-size:100%;">86%    </td> 
+                    <td style="font-size:100%;">2018   </td> 
+                </tr>
+                <tr>
+                    <td style="font-size:100%;">3. Class X    </td>
+                    <td style="font-size:100%;">D.A.V Public School   </td>
+                    <td style="font-size:100%;">CBSE  </td> 
+                    <td style="font-size:100%;">        10 CGPA           </td> 
+                    <td style="font-size:100%;">2016   </td> 
+                </tr>
+            </table>
+            <p><strong>Technical Language:</strong>&nbsp; Basics of Python and C.  <br>
+                <strong>Subjects Of Interest: </strong>&nbsp; Electrical Machines, Python(Basics). <br>
+                <strong>Projects and Training:</strong><br>
+                <ul>
+                    <li>	Mini Project on “Barlow’s Wheel” (2nd Semester). </li>
+                    <li>	Mini Project on model of DC motor (3rd semester).</li>
+                    <li>	Personal project on “Content based movie recommendation system using python”.</li>
+                    <li> <a href="https://github.com/Nullstack-Technologies/Python-Basics-and-Beyond-2021">   Undergoing Training Web development using Python at Null Stack Technologies</a></li>
+                </ul>
+            </p>
+                <br>
+               <p><strong>Co-Curricular Activities:</strong><br>
+                <ul>
+                    <li>Participated in   <ol>
+                        <li> Webinar on “Trends in Future Power Systems and its Relevance in the Indian Scenario” (29th August
+                            2020) organized by IEEE. </li>                                
+                 <li> Renewable Energy Online Quiz Competition at Furenergy Grid on 23rd July 2020.</li>
+                <li> Innovatia in Srey 2k19 (14th April, 2019), tech fest of St. Thomas’ College of Engineering & Technology</li>
+                    </ol> 
+                </li>
+                <li>
+                    Completed Nptel course in 
+                    <ol>
+                        <li>“Joy of computing using Python” on December,2020. </li>
+                        <li>“Ethics in Engineering Practice” on December,2020. </li>
+                    </ol>
+                </li>
+                </ul>
+                <br>
+                <strong>Extra Curicullar Activities:</strong>
+                <br>
+                <ul>
+                    <li>	Participated in inter departmental football tournament (14th November, 2019) in St. Thomas’ College of Engineering & Technology (Winners).</li>
+                    <li>	Organized and participated in Blood Donation Camp in 2018. </li>
+                    <li>   	Organized online departmental Farewell ‘Corona’ for 4th year outgoing(2020).</li>
+                    <li>   	Participation in Community and Allied Services (15th and 16th June, 2019) & Relief Camp (10th June, 2019) for Pankh Foundation. </li>
+                </ul>
+                <br>
+                <strong>Personal Profile:</strong>
+                <table>
+                    <tr>
+                        <th><strong>1.Date Of Birth</strong></th>
+                        <td>28th June 1999</td>
+                    </tr>
+                    <tr>
+                        <th>2.Hobbies</th>
+                        <td>Playing Football,Reading Story Books,Cooking</td>
+                    </tr>
+                    <tr>
+                        <th>Languages Known</th>
+                        <td>Bengali,English,Hindi</td>
+                    </tr>
+                </table>
+                <br>
+                <strong>Date: 15/5/2021</strong>
+                <img src="1615348162526.jpg" width="150" height="80" style="float:right; padding-bottom: 10px; "/>
+                <br>
+                <strong>Place: Kolkata</strong>
+            </p>
+            
+        </div>
+    </body>
+</html>
